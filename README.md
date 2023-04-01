@@ -1,4 +1,4 @@
-💻 💻 💻 <h1>#100DaysOfPythonChallenge</h1>
+💻 💻 💻 <h1>100DaysOfPythonChallenge</h1>
 <p>Welcome to my repository for the #100DaysOfPython challenge!</p>
 <h2> Introduction</h2>
 <p>The #100DaysOfPython challenge is a commitment to code for at least an hour every day for 100 days. This challenge is designed to help me improve my skills in Python programming and build a habit of consistent coding practice.</p>
