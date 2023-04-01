@@ -1,6 +1,6 @@
 💻 💻 💻 <h1>#100DaysOfPythonChallenge</h1>
 <p>Welcome to my repository for the #100DaysOfPython challenge!</p>
-<h2>Introduction</h2>
+<h2> Introduction</h2>
 <p>The #100DaysOfPython challenge is a commitment to code for at least an hour every day for 100 days. This challenge is designed to help me improve my skills in Python programming and build a habit of consistent coding practice.</p>
 <h2>Repository Content</h2>
 <p>In this repository, you'll find my daily progress, code snippets, and project files for the 100 days of the challenge. I'll be sharing my journey, the concepts I'm learning, and the projects I'm building.</p>
