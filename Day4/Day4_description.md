@@ -1,0 +1,3 @@
+<p>
+🎉 On Day 4 of my Python journey, I explored the exciting concepts of randomisation and Python lists. I learned about the random module in Python and its functions that can generate random numbers, including integers, floats, and elements from a list. 🔢 Additionally, I discovered the power of Python lists as a versatile data structure that allows us to store, manipulate, sort, filter, and search for specific elements within a collection. 🧮 Inspired by Dr. Angela Yu's Udemy course, I even created a rock-paper-scissors game using Python's random module and lists. 🪨📄✂️ It was incredibly satisfying to see my code in action and a great way to apply my newfound skills! 😄
+</p>
